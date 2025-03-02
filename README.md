@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/sujal0821" target="blank"><img src="https://img.shields.io/twitter/follow/sujal0821?logo=twitter&style=for-the-badge" alt="sujal0821" /></a> </p>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Java, Python And Spring**
+- 💬 Ask me about **Data Visualization, Python, Java **
 
 - 📫 How to reach me **sujal0821@gmail.com**
 
