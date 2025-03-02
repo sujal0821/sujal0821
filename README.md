@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Data Visualization, Python, Java**
+- 💬 Ask me about **App Development, Data Visualization, Web Development**
 
 - 📫 How to reach me **sujal0821@gmail.com**
 
