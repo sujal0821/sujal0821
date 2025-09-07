@@ -37,4 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal0821&" alt="sujal0821" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gnrcn6flfrejyix4esc2e5rz2m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gnrcn6flfrejyix4esc2e5rz2m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
